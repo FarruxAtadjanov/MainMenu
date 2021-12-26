@@ -1,0 +1,16 @@
+C:\Users\Farrux\Documents\Projects\MainMenu\MarketMenu\bin\Debug\net5.0\MarketMenu.exe
+C:\Users\Farrux\Documents\Projects\MainMenu\MarketMenu\bin\Debug\net5.0\MarketMenu.deps.json
+C:\Users\Farrux\Documents\Projects\MainMenu\MarketMenu\bin\Debug\net5.0\MarketMenu.runtimeconfig.json
+C:\Users\Farrux\Documents\Projects\MainMenu\MarketMenu\bin\Debug\net5.0\MarketMenu.runtimeconfig.dev.json
+C:\Users\Farrux\Documents\Projects\MainMenu\MarketMenu\bin\Debug\net5.0\MarketMenu.dll
+C:\Users\Farrux\Documents\Projects\MainMenu\MarketMenu\bin\Debug\net5.0\ref\MarketMenu.dll
+C:\Users\Farrux\Documents\Projects\MainMenu\MarketMenu\bin\Debug\net5.0\MarketMenu.pdb
+C:\Users\Farrux\Documents\Projects\MainMenu\MarketMenu\obj\Debug\net5.0\MarketMenu.csproj.AssemblyReference.cache
+C:\Users\Farrux\Documents\Projects\MainMenu\MarketMenu\obj\Debug\net5.0\MarketMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Farrux\Documents\Projects\MainMenu\MarketMenu\obj\Debug\net5.0\MarketMenu.AssemblyInfoInputs.cache
+C:\Users\Farrux\Documents\Projects\MainMenu\MarketMenu\obj\Debug\net5.0\MarketMenu.AssemblyInfo.cs
+C:\Users\Farrux\Documents\Projects\MainMenu\MarketMenu\obj\Debug\net5.0\MarketMenu.csproj.CoreCompileInputs.cache
+C:\Users\Farrux\Documents\Projects\MainMenu\MarketMenu\obj\Debug\net5.0\MarketMenu.dll
+C:\Users\Farrux\Documents\Projects\MainMenu\MarketMenu\obj\Debug\net5.0\ref\MarketMenu.dll
+C:\Users\Farrux\Documents\Projects\MainMenu\MarketMenu\obj\Debug\net5.0\MarketMenu.pdb
+C:\Users\Farrux\Documents\Projects\MainMenu\MarketMenu\obj\Debug\net5.0\MarketMenu.genruntimeconfig.cache

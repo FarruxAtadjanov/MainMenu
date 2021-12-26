@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jDN/9924u2uZ0TH2wJEjTeM92nnvYR+JkN5OEWtxun/XIz+w2RMS1PPxUo8GDb9gtH6fG2xVG2wGkJj93WYZvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Farrux\\Documents\\Projects\\MainMenu\\MarketMenu\\MarketMenu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Farrux\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
